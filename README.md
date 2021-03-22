@@ -1,11 +1,5 @@
-# Quinn Calendar
+# React Calendar
 
-In the project directory, you can run:
+A calendar built using React.js and date-fns library. Uses Javascript generating functions to get dates.
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![React Calendar](/public/Screenshot_2021-03-22%20React%20Calendar.png)
